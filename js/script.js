@@ -5,7 +5,7 @@ console.log(typeof result)
 const email = 'pavlopysarenko123@gmail.com'
 haveDog = email.includes('@')
 length = email.length
-console.log('Тут є @ ? ' + haveDog + "Кількість символів: "+ length)
+console.log('Тут є @ ? ' + haveDog + " Кількість символів: "+ length)
 //   3.
 my = 'My '
 name = 'name '
